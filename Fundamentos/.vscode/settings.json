@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "java.project.sourcePaths": ["Fundamentos/src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+}
